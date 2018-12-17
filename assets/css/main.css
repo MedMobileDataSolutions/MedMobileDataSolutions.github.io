@@ -33,6 +33,15 @@ body {
 	line-height: 1;
 }
 
+/*Mayanks Edits */
+
+.headerimg{
+	width: 10%;
+	height: 10%;
+	z-index: -1;
+}
+
+
 ol, ul {
 	list-style: none;
 }
@@ -2690,7 +2699,7 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../../images/header2.jpg");
+		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../../images/background3.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
